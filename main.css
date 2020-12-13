@@ -50,5 +50,11 @@ section div input + input {
 }
 
 input[type=submit] {
+    background-color: rgb(250, 234, 255);
+    transition: 150ms;
+}
 
+input[type=submit]:hover {
+    background-color: rgb(245, 212, 255);
+    transition: 150ms;
 }
