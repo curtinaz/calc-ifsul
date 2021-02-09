@@ -1,4 +1,7 @@
 var factor = document.querySelector("#factor");
+
+factor = new Number(factor);
+
 let btncalc = document.querySelector('#btncalc')
 
 function tabuada() {
