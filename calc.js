@@ -1,5 +1,3 @@
-var factorInput = document.querySelector("#factor");
-
 var factor = Number(factorInput.value);
 
 let btncalc = document.querySelector('#btncalc')
