@@ -1,4 +1,4 @@
-var factor = (document.querySelector("#factor").value;
+var factor = (document.querySelector("#factor");
 let btncalc = document.querySelector('#btncalc')
 
 function tabuada() {
