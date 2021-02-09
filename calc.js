@@ -1,4 +1,4 @@
-var factor = document.querySelector("#factor");
+var factorInput = document.querySelector("#factor");
 
 
 
