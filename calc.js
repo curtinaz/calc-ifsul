@@ -1,6 +1,4 @@
-var factor = document.querySelector("#factor");
-
-factor = Number(factor);
+var factor = Number(document.querySelector("#factor")).value;
 
 let btncalc = document.querySelector('#btncalc')
 
