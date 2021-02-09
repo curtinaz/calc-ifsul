@@ -1,4 +1,4 @@
-var factor = document.querySelector("#factor");
+var factor = document.querySelector("#factor").value;
 
 factor = new Number(factor);
 
